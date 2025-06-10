@@ -1,11 +1,11 @@
 
 import './App.css'
-import Contador from './Contador.jsx'
+import Interruptor from './On-off.jsx'
 
 function App() {
   return(
     <>
-      <Contador/>
+      <Interruptor/>
     
     </>
   )
